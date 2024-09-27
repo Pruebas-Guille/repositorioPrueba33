@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: prueba-guille
+  description: preuba para discovery
+  # Example for optional annotations
+spec:
+  type: website
+  owner: guillermo-quintanar_neoris
+  lifecycle: experimental
