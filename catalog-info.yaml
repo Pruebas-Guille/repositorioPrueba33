@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: prueba-guille-eventos-update
+  name: todo funciona
   description: preuba para discovery
   # Example for optional annotations
 spec:
